@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
           body: Center(
             child: Text(
               wordpair.asPascalCase,
-              style: TextStyle(color: Colors.yellow),
+              style: TextStyle(color: Colors.yellowAccent),
             ),
           )),
     );
